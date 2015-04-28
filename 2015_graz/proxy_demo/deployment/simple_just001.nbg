@@ -1,0 +1,5 @@
+digraph simple_just001 {
+    subgraph "beearena" {
+        "casu-001" -> "casu-001" [ label = "right" ]
+    }
+}
